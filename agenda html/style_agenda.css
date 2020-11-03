@@ -1,0 +1,21 @@
+body{background-color: #92C7C7;}
+h1{color: white;
+text-align: center;
+font-family: arial;
+}
+h2{color: white;
+text-align: center;
+font-family: arial;
+}
+ul{
+background-color: white;
+text-align: center;
+font-family: arial;
+}
+ul{border: 2px solid black;}
+img{border: 2px solid black;
+border-radius: 12px;
+display: block;
+padding: 2px;
+margin: center;
+}
